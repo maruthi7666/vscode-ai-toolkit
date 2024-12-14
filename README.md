@@ -12,3 +12,5 @@ For now we have the following topics covered:
 - [FAQ](doc/faq.md)
 
 If you have any question not yet covered, or you have suggestion of the doc topics and contents, you can create a GitHub issue on this repo.
+
+Add a new line of text.
